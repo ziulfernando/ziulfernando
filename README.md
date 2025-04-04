@@ -8,7 +8,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziulfernando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
--👷🏽‍♂️☝🏽Atualmente trabalho como apontador na Construtora Simetrica Engenharia Ltda, migrando para TI.
+-👷🏽‍♂️☝🏽Atualmente trabalho como consultor corporativo, em posto dedicado ao cliente na empresa Opus viagens e eventos, migrando para TI.
 
 -💻📖✏👨🏽‍🎓Estou Estudando Analise e Desenvolvimento de Sistemas, Na instituição de Ensino SENAC-SP.
 
@@ -22,9 +22,22 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></div><br/>
 
-Apaixondo por tecnologia, espero um dia poder programar para um grande empresa.
+Apaixondo por tecnologia, espero um dia poder programar para uma grande empresa.
 
 ### "Ao infinito e além!" 🧑🏽‍🚀🧑🏽‍🚀
 
-✨ Por uma pessoa special! ✨
+✨ Tem que acreditar, desde cedo a mãe da gente fala assim
+Filho por você ser preto você tem de ser duas vezes melhor
+Aí passado alguns anos eu pensei, como fazer duas melhor?
+Se você tá pelo menos 100 vezes atrassado, pela escravidão
+Pela história, pelo preconceito, pelos traumas, pelas psicose
+Por tudo que aconteceu, duas vezes melhor como?
+Ou melhora, ou ser o melhor é o pior de uma vez
+E sempre foi assim
+Se você vai escolher o que tiver mais perto de você
+O que tiver na tua realidade
+Você vai ser duas vezes melhor como?
+Quem que inventou isso aí?
+Quem foi o pilantra que inventou isso aí?
+Acorda pra vida rapaz! ✨
   
